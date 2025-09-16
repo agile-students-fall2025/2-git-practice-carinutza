@@ -8,3 +8,4 @@ I think this article takes an interesting approach to the future of software dev
 
 # Lauren Thorve comment - 
 I think this article is interesting, its similar to my own article I choose about AI as it interacts with software developers - as it can be beneficial and/or hurtful for our lives.
+
