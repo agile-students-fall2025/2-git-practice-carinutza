@@ -4,3 +4,6 @@
 ### What I found interesting 
 
 I think this article takes an interesting approach to the future of software development and AI. It views AI as a tool that is changing the nature of development, not just automating tasks. The article frames AI as the next abstraction in coding, suggesting that being a successful coder will no longer be about formulating the right prompt to leverage its powers. The article also argues that the future's best coders will learn to collaborate with AI, understanding the big picture, criticizing AI-produced prompts, and asking the right questions.
+
+
+Lauren Thorve comment - I think this article is interesting, its similar to my own article I choose about AI as it interacts with software developers - as it can be beneficial and/or hurtful for our lives.
